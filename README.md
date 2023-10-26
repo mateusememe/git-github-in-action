@@ -1,2 +1,5 @@
-# git-github-in-action
-The official repository for the "Git and Github in Action" mini-course, a part of the 35th Infoeste event. In this dynamic and informative course, we will explore the essential concepts of version control using Git and collaborative software development using GitHub.
+# Git e Github em Ação
+O repositório oficial do minicurso "Git e Github em Ação" parte do 35º evento Infoeste. Neste curso dinâmico e informativo, exploraremos os conceitos essenciais de controle de versão usando o Git e o desenvolvimento colaborativo de software usando o GitHub.
+
+## Referências
+[Boas práticas para commits (padronizações)](https://github.com/iuricode/padroes-de-commits)
