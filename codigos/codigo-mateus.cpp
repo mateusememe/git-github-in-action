@@ -10,14 +10,13 @@ int fat (int x)
 
 
 int main() {
-	
-	int n;
+  int n;
 	printf("Ola mundo!");
 	printf("Numero Fatorial:");
 	scanf("%d", &n);
 	printf("%d", fat(n));
 	
-	return 0;
+return 0;
 }
 
 
