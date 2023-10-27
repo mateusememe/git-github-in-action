@@ -1,8 +1,6 @@
 #include<stdio.h>
 
 int main() {
-	printf("Ola mundo!\n");
+	printf("Limonations!\n");
 	int x;
-	scanf("%d",&x);
-	return 0;
 }
