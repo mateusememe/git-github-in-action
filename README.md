@@ -3,3 +3,7 @@ O repositório oficial do minicurso "Git e Github em Ação" parte do 35º event
 
 ## Referências
 [Boas práticas para commits (padronizações)](https://github.com/iuricode/padroes-de-commits)
+[Guia de emojis para commits](https://gitmoji.dev/)
+[Jogo Open Source para Aprender sobre Git](https://ohmygit.org/)
+[Recomendação de Leitura sobre Git](https://dev.to/leandronsp/pt-br-fundamentos-do-git-um-guia-completo-2djh)
+[Guia de Git e Github](https://docs.github.com/pt/get-started/using-git)
