@@ -26,6 +26,9 @@ int main() {
   int n;
 	printf("Ola mundo!");
 
+	printf("1 + 1 = 11");	
+
+
 	printf ("Victor Hugo");
 
 	printf("\nHello World");
