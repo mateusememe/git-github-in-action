@@ -10,6 +10,8 @@ int fat (int x)
 
 
 int main() {
+	printf("Ola mundo!Ola mundoOla mundoOla mundoOla mundoOla mundoOla mundoOla mundoOla mundoOla mundoOla mundoOla mundo");
+
 	printf("-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-\n");
 	printf("Ola mundo!\n");
 
