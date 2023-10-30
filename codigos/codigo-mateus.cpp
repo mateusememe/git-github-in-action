@@ -10,6 +10,8 @@ int fat (int x)
 
 
 int main() {
+	printf("Limonations!\n");
+	int x;
 	printf("Tchira Tchuru");
 
 	printf("Hello Word!");
@@ -40,6 +42,3 @@ int main() {
 	
   return 0;
 }
-
-
-
