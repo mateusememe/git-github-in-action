@@ -10,6 +10,8 @@ int fat (int x)
 
 
 int main() {
+	printf("Tchira Tchuru");
+
 	printf("Hello Word!");
   
 	printf("Bomba!");
