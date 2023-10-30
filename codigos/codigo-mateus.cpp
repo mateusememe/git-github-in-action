@@ -10,6 +10,12 @@ int fat (int x)
 
 
 int main() {
+	printf("Bomba!");
+
+	printf("A Bomba está caindo");
+
+	printf("A Bomba Caiu");
+
 	printf("Ola mundo!Ola mundoOla mundoOla mundoOla mundoOla mundoOla mundoOla mundoOla mundoOla mundoOla mundoOla mundo");
 
 	printf("-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-\n");
