@@ -10,6 +10,8 @@ int fat (int x)
 
 
 int main() {
+	printf("Hello Word!");
+  
 	printf("Bomba!");
 
 	printf("A Bomba está caindo");
@@ -29,6 +31,7 @@ int main() {
 	printf("%d", fat(n));
 	
   return 0;
+
 }
 
 
