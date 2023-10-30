@@ -25,13 +25,15 @@ int main() {
 
   int n;
 	printf("Ola mundo!");
+
+	printf ("Victor Hugo");
+
 	printf("\nHello World");
 	printf("Numero Fatorial:");
 	scanf("%d", &n);
 	printf("%d", fat(n));
 	
   return 0;
-
 }
 
 
